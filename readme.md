@@ -1,6 +1,6 @@
 # PSEUDOCODIGO DEL EJERCICIO 6
 
-Escribir un algoritmo que indique al usuario si el número ingresado es positivo o negativo.
+Escribir un algoritmo que indique al usuario si el número ingresado es par o impar.
 
 1. Inicio
 2. Ingresar el número
